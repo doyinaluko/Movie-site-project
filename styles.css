@@ -18,6 +18,9 @@ body{
   border-color: #EE4B08;
   border-width: 4px;
 }
+.container-fluid{
+  padding: 5% 5%;
+}
 
 
 
